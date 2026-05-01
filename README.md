@@ -4,7 +4,7 @@ En este repositorio se van a manejar las entregas para la realización de una re
 En la zona de la Wiki del repositorio va a poder ver con mayor detalle todas las especificaciones técnicas del proyecto.
 
 ## 🧑🏽‍💻👩🏻‍💻👨🏽‍💻 Integrantes
-#
+
 - Miguel Ángel Coronado Rojas - 327087
 - Karol Briyith Esquivel Peña - 343927
 - Carlos Andrés Vargas Escobar - 337093
