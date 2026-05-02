@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="MHEd8rs7djGEz8T4vbxF" name="Page-1">
-        <mxGraphModel dx="2270" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1730" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -84,14 +84,14 @@
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="89.25" y="273.25" as="targetPoint"/>
                         <Array as="points">
-                            <mxPoint x="69.25" y="188.25"/>
+                            <mxPoint x="70" y="160"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="25" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="15" target="21">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="69.25" y="358.25"/>
+                            <mxPoint x="80" y="370"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
@@ -105,34 +105,38 @@
                     <mxGeometry x="109.75" y="288.25" width="90" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="19" value="" style="shape=mxgraph.cisco.servers.www_server;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-                    <mxGeometry x="-110.75" y="248.25" width="46" height="50" as="geometry"/>
+                    <mxGeometry x="-111.75" y="288.25" width="46" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="21" value="" style="shape=mxgraph.cisco.servers.fileserver;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
                     <mxGeometry x="-30.75" y="346.25" width="30" height="42" as="geometry"/>
                 </mxCell>
                 <mxCell id="22" value="" style="shape=mxgraph.cisco.servers.fileserver;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-                    <mxGeometry x="-30.75" y="158.25" width="30" height="42" as="geometry"/>
+                    <mxGeometry x="-72.75" y="136" width="30" height="42" as="geometry"/>
                 </mxCell>
                 <mxCell id="24" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="15" target="19">
-                    <mxGeometry relative="1" as="geometry"/>
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="60" y="310"/>
+                        </Array>
+                    </mxGeometry>
                 </mxCell>
                 <mxCell id="26" value="Servidor DNS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-                    <mxGeometry x="-65.75" y="200.25" width="100" height="30" as="geometry"/>
+                    <mxGeometry x="-111.75" y="178" width="100" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="27" value="Servidor web" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-                    <mxGeometry x="-132.75" y="298.25" width="90" height="30" as="geometry"/>
+                    <mxGeometry x="-132.75" y="332.25" width="90" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="28" value="Proxy Inverso" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
                     <mxGeometry x="-65.75" y="388.25" width="100" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="29" value="&lt;i&gt;Cobre&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=30;" vertex="1" parent="1">
-                    <mxGeometry x="49.25" y="164.25" width="60" height="30" as="geometry"/>
+                    <mxGeometry x="49.75" y="134.75" width="60" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="31" value="&lt;i&gt;Cobre&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-                    <mxGeometry x="-5.75" y="248.25" width="60" height="30" as="geometry"/>
+                    <mxGeometry x="-10.75" y="286.25" width="60" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="32" value="&lt;i&gt;Cobre&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-30;" vertex="1" parent="1">
-                    <mxGeometry x="54.25" y="348.25" width="60" height="30" as="geometry"/>
+                    <mxGeometry x="54.25" y="366.25" width="60" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="35" value="&lt;b&gt;DMZ&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
                     <mxGeometry x="-142.5" y="104.75" width="50" height="30" as="geometry"/>
@@ -479,6 +483,19 @@
                 </mxCell>
                 <mxCell id="163" value="Internet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
                     <mxGeometry x="547.25" y="78.25" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="165" value="" style="shape=mxgraph.cisco.servers.fileserver;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+                    <mxGeometry x="-90" y="208" width="30" height="42" as="geometry"/>
+                </mxCell>
+                <mxCell id="166" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="15" target="165">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="40" y="230"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="167" value="Servidor Correo/FTP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="-140" y="244" width="130" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
